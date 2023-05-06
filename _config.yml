@@ -27,7 +27,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/Justin-czk"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/a_confuzzled_rabbit/"}  #icon and url change
   - {title: Linkedin, icon: linkedin-in, url: "https://www.linkedin.com/in/justin-cheong-zk/"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/your_twitter_handle"}
 
 
 comments:
