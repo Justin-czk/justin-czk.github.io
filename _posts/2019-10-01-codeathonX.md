@@ -1,7 +1,6 @@
 ---
 title:  "CodeathonX"
 layout: post
-categories: media
 ---
 
 <video width="640" height="480" controls>
