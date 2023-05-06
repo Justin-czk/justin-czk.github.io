@@ -25,8 +25,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:justincheongzekang@u.nus.edu"}
   - {title: Github, icon: github, url: "https://github.com/Justin-czk"}
-  - {title: Instagram, icon: Instagram, url: "https://www.instagram.com/a_confuzzled_rabbit/"}  #icon and url change
-  - {title: Linkedin, icon: Linkedin, url: "https://www.instagram.com/a_confuzzled_rabbit/"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/a_confuzzled_rabbit/"}  #icon and url change
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/justin-cheong-zk/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
