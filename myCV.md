@@ -11,7 +11,7 @@ title: "My CV"
 - HDB Resale Prices Analysis
 - Another of my own Project
 <br>
-<a href="https://justin-czk.github.io/blog/" class="button">Go to Example</a>
+<a href="https://justin-czk.github.io/blog/" class="button">Go to Portfolio</a>
 <style>
 .button {
   display: inline-block;
