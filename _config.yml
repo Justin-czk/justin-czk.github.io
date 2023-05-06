@@ -26,7 +26,9 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:justincheongzekang@u.nus.edu"}
   - {title: Github, icon: github, url: "https://github.com/Justin-czk"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/a_confuzzled_rabbit/"}  #icon and url change
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/justin-cheong-zk/"}
+  - {title: Linkedin, icon: linkedin-in, url: "https://www.linkedin.com/in/justin-cheong-zk/"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/your_twitter_handle"}
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
