@@ -10,7 +10,7 @@ date_format: "%d %B %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header, this uses the icon under navigation
+show_sidebar: false        # show a sidebar instead of the usual header, this uses the icon under navigation
 minimal: false             # use a dark header
 
 # Menu
@@ -18,14 +18,15 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}   # title: Home, icon: home
   - {file: "README.md"}    # "about me"
-  - {file: "Justin.pdf", title: "Justin's CV"} #need to upload
+  - {file: "myCV.md"} #file: "Justin.pdf", title: "Justin's CV"} #need to upload
   - {file: "blog.html"}   # title: Home, icon: home
   - {title: "Website", url: "https://justin-czk.github.io/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:justincheongzekang@u.nus.edu"}
   - {title: Github, icon: github, url: "https://github.com/Justin-czk"}
-  - {title: Instagram, icon: insta, url: "https://www.instagram.com/a_confuzzled_rabbit/"}  #icon and url change
+  - {title: Instagram, icon: Instagram, url: "https://www.instagram.com/a_confuzzled_rabbit/"}  #icon and url change
+  - {title: Linkedin, icon: Linkedin, url: "https://www.instagram.com/a_confuzzled_rabbit/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
