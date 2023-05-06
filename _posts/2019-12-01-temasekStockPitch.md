@@ -9,6 +9,5 @@ Insert picture here
 
 insert revised stock pitch here
 
-You may also [download a copy](/assets/Stock Pitch_Coinbase.pdf) of my team's past work.
+<embed src="Stock Pitch_Coinbase.doc" type="application/msword" width="500" height="600">
 
-Upload the above^
