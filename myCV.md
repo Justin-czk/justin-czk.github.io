@@ -10,13 +10,13 @@ title: "My CV"
 - Stock Market Price Prediction
 - HDB Resale Prices Analysis
 - Another of my own Project
+<br>
 <a href="https://justin-czk.github.io/blog/" class="button">Go to Example</a>
-
 <style>
 .button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #007bff;
+  background-color: #7FB9D4;
   color: #fff;
   text-decoration: none;
   border-radius: 5px;
