@@ -8,6 +8,7 @@ layout: post
   Your browser does not support the video tag.
 </video>
 
+
 #Project Description
 Our team FoodieX is developing a mobile-based application to help enable people to live a healthier lifestyle and reduce illness. 
 Our solutions implements AI Image recognition technology to enable people to calculate food calories and ensure nutritional balance. FoodieX application will also automatically schedule the sports activities according to the foods taken. This solution will also track user activity progresses throughout a workout plan. Our solution will also notify users to drink water to ensure the body is well hydrated. Although FoodieX is similar to CalorieMama and HealthifyMe but our solution has a better automation system and AI system compared to the other solutions in the market which is highly effective and reduces the time spent in making yourself a diet plan. By using FoodieX, we can easily ensure our calories gain is normal and work out as planned to prevent illnesses such as obesity. Our team is made up of 2 Designers and 3 Programmers working collaboratively on this project. We will be building our project using Ionic and Cordova and Food image recognition API.
