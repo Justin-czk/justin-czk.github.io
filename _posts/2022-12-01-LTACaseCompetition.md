@@ -8,7 +8,6 @@ Insert video here
 Describe process 
 
 
-
 You swine. You vulgar little maggot. You worthless bag of filth. I wager you couldn't empty a boot of excrement were the instructions on the heel. You are a canker. A sore that won't go away. I would rather kiss a lawyer than be seen with you. Try to edit your responses of unnecessary material before attempting to impress us with your insight. The evidence that you are a nincompoop will still be available to readers, but they will be able to access it more rapidly.
 
 You snail-skulled little rabbit. Would that a hawk pick you up, drive its beak into your brain, and upon finding it rancid set you loose to fly briefly before spattering the ocean rocks with the frothy pink shame of your ignoble blood. May you choke on the queasy, convulsing nausea of your own trite, foolish beliefs. You are weary, stale, flat and unprofitable. You are grimy, squalid, nasty and profane. You are foul and disgusting. You're a fool, an ignoramus.
