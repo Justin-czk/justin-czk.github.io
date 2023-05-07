@@ -25,8 +25,8 @@ title: "My CV"
     <section>
       <p>...Or you can <a href="/assets/JustinResume.pdf" download="JustinResume">download the pdf</a> of my resume for your perusal!</p>
     </section>
-    <section id="Education"> <p align="right">
-      <h2>My Formal Education</h2> <i>Expected Graduation Year: 2025</i></p>
+    <section id="Education"> 
+      <h2>My Formal Education</h2> <p align="right"><i>Expected Graduation Year: 2025</i></p>
       <p>I am a year 2 student in NUS pursuing a Bachelor of Science (Hons) in Data Science and Economics! Click below to see the relevant courses that I've taken!</p>
       <details>
         <summary><u>Relevant Courses</u></summary>
