@@ -3,27 +3,84 @@ layout: default
 title: "My CV"
 ---
 
-# Formal Education
-# Acacemic Pursuits
-# Qualification and Skills
-# Academic Projects
-- Stock Market Price Prediction
-- HDB Resale Prices Analysis
-- Another of my own Project
-<br>
-<a href="https://justin-czk.github.io/blog/" class="button">Go to Portfolio</a>
-<style>
-.button {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #7FB9D4;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 5px;
-}
-</style>
-# Extra Curricular Activities
-# Professional Experience
-<!-- Awards and Honors, publications and presentations, professional associations, grants and scholarships, licenses and certificates -->
+<!DOCTYPE html>
+<html>
+<!--Header here-->
 
-Or you can [download a copy](/assets/JustinResume.pdf) of my resume for your perusal!
+<body>
+  <header>
+    <h1>Content</h1>
+    <nav>
+      <ul>
+        <li><a href="#Education">Formal Education</a></li>
+        <li><a href="#Acacemic">Acacemic Pursuits</a></li>
+        <li><a href="#Skills">Acacemic Pursuits</a></li>
+        <li><a href="#Projects">Academic Projects</a></li>
+        <li><a href="#Activities">Extra Curricular Activities</a></li>
+        <li><a href="#Experience">Professional Experience</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <p>...Or you can <a href="/assets/JustinResume.pdf" download="JustinResume">download the pdf</a> of my resume for your perusal!</p>
+    </section>
+    <section id="Education"> <p align="right">
+      <i>Expected Graduation Year: 2025</i></p>
+      <h2>My Formal Education</h2> 
+      <p>I am a year 2 student in NUS pursuing a Bachelor of Science (Hons) in Data Science and Economics! Click below to see the relevant courses that I've taken!</p>
+      <details>
+        <summary><u>Relevant Courses</u></summary>
+        <ul>
+          <li>Artificial Intelligence</li>
+          <li>Data Visualization</li>
+          <li>Data Structures and Algorithms</li>
+          <li>Regression Analysis</li>
+          <li>Statistical Methods</li>
+          <li>Micro Economics</li>
+          <li>Macro Economics</li>
+        </ul>
+    </details>
+    </section>
+
+    <section id="Acacemic">
+      <h2>Acacemic Pursuits</h2>
+    </section>
+
+    <section id="Skills">
+      <h2>Qualification and Skills</h2>
+      <p>I am a web developer with experience in HTML, CSS, and JavaScript.</p>
+    </section>
+
+    <section id="Projects">
+      <h2>Academic Projects</h2>
+      <ul>
+        <li>Stock Market Price Prediction</li>
+        <li>HDB Resale Prices Analysis</li>
+      </ul>
+      <a href="https://justin-czk.github.io/blog/" class="button">Go to Portfolio</a>
+      <style>
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #7FB9D4;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+      }
+      </style>
+    </section>
+
+    <section id="Activities">
+      <h2>Extra Curricular Activities</h2>
+      <p>I am a web developer with experience in HTML, CSS, and JavaScript.</p>
+    </section>
+
+    <section id="Experience">
+      <h2>Professional Experience</h2>
+      
+    </section>
+    <!-- Awards and Honors, publications and presentations, professional associations, grants and scholarships, licenses and certificates -->
+  </main>
+</body>
+</html>
