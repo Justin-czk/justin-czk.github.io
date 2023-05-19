@@ -9,7 +9,7 @@ CodeathonX is a flagship programme by Code for Asia – a social enterprise prom
 ![UN SDG Goal 3 image](https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-03.jpeg)
 ![UN SDG Goal 4 image](https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-04.jpeg)
 ![UN SDG Goal 8 image](https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-08.jpeg)
-![UN SDG Goal 11 image](https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-011.jpeg)
+![UN SDG Goal 11 image](https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-11.jpeg)
 
 ## Project Video
 <video width="640" height="480" controls>
