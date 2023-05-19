@@ -12,7 +12,6 @@ CodeathonX is a flagship programme by Code for Asia – a social enterprise prom
 <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-11.jpeg" alt="alt text" title="image Title" width="210"/>
 
 ## Project Video
-<h1>Project Video</h1>
 <video width="640" height="480" controls>
   <source src="/assets/FoodieX.mp4" type="video/mp4">
   Your browser does not support the video tag.
