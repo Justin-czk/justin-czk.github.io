@@ -21,9 +21,7 @@ Our solutions implements AI Image recognition technology to enable people to cal
 ## Our rationale
 Due to the current COVID-19 pandemic, most of us are staying at home. This restriction has caused people to exercise less and eat more. This inspired us to create a solution which can helps everyone by controlling the calories with just using mobile phones. We have learned with proper motivation and all people can be healthier. We face challenges in keeping the fine line between creating [a UI that people will use, and a UI that is neither intuitive nor sustains its usage].
 
-<embed src="/assets/codeathonCert.pdf" type="application/pdf" width="1000px" height="1414px"/>
+<embed src="/assets/codeathonCert.pdf" type="application/pdf" width="746px" height="576px"/>
 
-<h1>PDF Example by Object Tag</h1>
-<object data="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" type="application/pdf" width="100%" height="500px">
-<p>Unable to display PDF file. <a href="/assets/codeathonCert.pdf">Download</a> instead.</p>
-</object>
+
+373 × 288
