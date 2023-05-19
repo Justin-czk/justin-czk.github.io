@@ -3,6 +3,8 @@ title:  "CodeathonX"
 layout: post
 ---
 
+Click <a href="https://www.codefor.asia/codeathonx-2021/">here</a> to visit the CodeathonX website!
+
 <video width="640" height="480" controls>
   <source src="/assets/FoodieX.mp4" type="video/mp4">
   Your browser does not support the video tag.
