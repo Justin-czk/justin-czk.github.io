@@ -3,8 +3,12 @@ title: "LTA Case Competition"
 layout: post
 ---
 
-Insert video here
-https://youtu.be/IPZZGIyfjCY
+
+<iframe width="420" height="315"
+src="https://youtu.be/IPZZGIyfjCY">
+</iframe>
+
+
 
 Describe process 
 
