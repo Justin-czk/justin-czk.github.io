@@ -4,9 +4,7 @@ layout: post
 ---
 
 
-<iframe width="420" height="315"
-src="https://youtu.be/IPZZGIyfjCY">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPZZGIyfjCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
