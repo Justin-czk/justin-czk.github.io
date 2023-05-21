@@ -3,8 +3,10 @@ title:  "CodeathonX"
 layout: post
 ---
 ## What is CodeathonX?
-Click <a href="https://www.codefor.asia/codeathonx-2021/">here</a> to visit the CodeathonX website!
 CodeathonX is a flagship programme by Code for Asia – a social enterprise promoting inclusive digital innovations headquartered in Singapore since 2016. A learning-intensive and beginner-friendly tech challenge, CodeathonX invites young people from around ASEAN in applying technology for impact. With a strategic focus on Sustainable Development Goals 3, 4, 8 and 11, CodeathonX is a one-of-a-kind tech talent accelerator that aims to nurture and boost people aged 18-35 in creating change using technology.
+Click <a href="https://www.codefor.asia/codeathonx-2021/">here</a> to visit the CodeathonX website!
+
+
 
 <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-03.jpeg" alt="alt text" title="image Title" width="17%"/>
 <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-04.jpeg" alt="alt text" title="image Title" width="17%"/>
