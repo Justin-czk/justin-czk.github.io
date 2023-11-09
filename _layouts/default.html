@@ -28,7 +28,9 @@
 {% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title"><img src="assets/JustinCheong.png" alt="{{ site.title | escape }}"></a>
+  <div class="icon">
+    <a href="{{ "/" | relative_url }}" class="title"><img src="assets/JustinCheong.png" alt="{{ site.title | escape }}"></a>
+  </div>
   {% include menu.html menu=pages %}
 </header>
 
