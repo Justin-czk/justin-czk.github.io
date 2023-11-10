@@ -5,7 +5,7 @@ title: "Stock Market Price Prediction"
 
 ![Stock Market](/assets/StockMarket-bymaxim-hopman-unsplash.jpg)
 
-As the coursework to an Artificial Intelligence module, along with my team, I have chosen to try and predict the future prices in the Stock Market. Attained A grade using Python to predict future price of stock. Used packages such as Tensorflow, Sklearn and Matplotlib. Project was done using Python, over Google Colab.
+As the coursework to an Artificial Intelligence module, along with my team, I have chosen to try and predict the future prices in the Stock Market. Attained A grade using Python to predict future price of stock. Used packages such as Tensorflow, Sklearn and Matplotlib. Project was done over Google Colab.
 
 I was mainly in charge with the formulation of the method and Neural Networks part of the project.
 
