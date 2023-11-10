@@ -9,14 +9,14 @@ Click <a href="https://www.codefor.asia/codeathonx-2021/">here</a> to visit the 
 
 <div class=row>
   <div class=column>
-    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-03.jpeg" alt="alt text" title="image Title" width="25%"/>
-    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-04.jpeg" alt="alt text" title="image Title" width="25%"/>
+    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-03.jpeg" alt="Good Health and Wellbeing" title="SDG 3 logo" width="25%"/>
+    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-04.jpeg" alt="Quality Education" title="SDG 4 logo" width="25%"/>
   </div>
 </div>
 <div class=row>
   <div class=column>
-    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-08.jpeg" alt="alt text" title="image Title" width="25%"/>
-    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-11.jpeg" alt="alt text" title="image Title" width="25%"/>
+    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-08.jpeg" alt="Decent Work and Economic Growth" title="SDG 8 logo" width="25%"/>
+    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-11.jpeg" alt="Sustainable Cities and Communities" title="SDG 11 logo" width="25%"/>
   </div>
 </div>
 
