@@ -3,8 +3,6 @@ title: "LTA Case Competition"
 layout: post
 ---
 
-<div class="videocontainer">
-  <iframe src="https://www.youtube.com/embed/IPZZGIyfjCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+<iframe src="https://www.youtube.com/embed/IPZZGIyfjCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
