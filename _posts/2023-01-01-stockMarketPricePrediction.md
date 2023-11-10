@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Stock Market Price Prediction"
 ---
 
@@ -7,10 +7,10 @@ title: "Stock Market Price Prediction"
 
 As the coursework to an Artificial Intelligence module, along with my team, I have chosen to try and predict the future prices in the Stock Market. 
 
-
-
 I was mainly in charge with the formulation of the method and Neural Networks part of the project.
 
+
+## The Project
 In this project, we used variants of regression as benchmark models, followed by exploring the use of <a href = "https://scikit-learn.org/stable/modules/tree.html">decision tree algorithms</a> followed by <a href = "https://scikit-learn.org/stable/modules/svm.html"> SVM </a>, given the high dimensionality in stock markets. We then make use of Neural Networks, <a href="https://en.wikipedia.org/wiki/Recurrent_neural_network">RNN</a> and <a href = "https://en.wikipedia.org/wiki/Long_short-term_memory">LSTM</a> specifically, since stock markets are time series in nature.
 
 Firstly, we analysed related studies to arrive with the above algorithms and understand the previous research better.
