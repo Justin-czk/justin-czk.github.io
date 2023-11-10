@@ -1,8 +1,9 @@
 ---
 title:  "Temasek Stock Pitch Competition"
-mathjax: true
+mathjax: false
 layout: post
 categories: media
+archive: true
 ---
 
 Insert picture here
