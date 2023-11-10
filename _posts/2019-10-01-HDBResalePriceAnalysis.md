@@ -22,9 +22,14 @@ This visualization gave me an interesting result. The boxplot notch of NSL does 
 Secondly, I produced a linear model as a benchmark by using a </a href="https://www.r-bloggers.com/2021/04/decision-trees-in-r/">decision tree</a> to check for useful predictors and </a href = "https://en.wikipedia.org/wiki/Cross-validation_(statistics)">cross-validation</a> to decide on the degree of polynomial I use as my regression model.
 
 <div class="row">
-    <img src="/assets/HDBresaleHierarchical.png" alt="Hierarchical Clustering forms 4 groups" title="Hierarchical Clustering Results" width="25%">
-    <img src="/assets/HDBresaleKmeans.png" alt="K-means CLustering forms 4 groups" title="K-means clustering Results" width="25%"> 
+    <div class="column">
+        <img src="/assets/HDBresaleHierarchical.png" alt="Hierarchical Clustering forms 4 groups" title="Hierarchical Clustering Results">
+    </div>
+    <div class="column">
+        <img src="/assets/HDBresaleKmeans.png" alt="K-means CLustering forms 4 groups" title="K-means clustering Results">
+    </div> 
 </div>
+
 Next, I use some unsupervised learning methods such as </a href="https://en.wikipedia.org/wiki/Hierarchical_clustering">Hierarchical clustering</a> and </a href="https://en.wikipedia.org/wiki/K-means_clustering">K-means Clustering</a>. Allowing us to get more insights to our data. 
 For example, Both Methods produce 4 groups. K-means Clustering(Right graph above) shows that HDBs with small floor area tend to have low resale price(blue). There is also a group in the middle of the plot(green). These could be the average HDB. Those with high floor area  generally have higher resale prices(purple), but some have lower resale prices that is near the median value. There is also a group with high resale price without as much floor area(red).  This could be due to red being in prime locations such as being very near CBD while purple may be in non-mature/less desired locations.
 
