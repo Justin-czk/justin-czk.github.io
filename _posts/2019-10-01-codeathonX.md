@@ -7,11 +7,18 @@ CodeathonX is a flagship programme by Code for Asia – a social enterprise prom
 Click <a href="https://www.codefor.asia/codeathonx-2021/">here</a> to visit the CodeathonX website!
 
 
-
-<img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-03.jpeg" alt="alt text" title="image Title" width="25%"/>
-<img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-04.jpeg" alt="alt text" title="image Title" width="25%"/>
-<img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-08.jpeg" alt="alt text" title="image Title" width="25%"/>
-<img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-11.jpeg" alt="alt text" title="image Title" width="25%"/>
+<div class=row>
+  <div class=column>
+    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-03.jpeg" alt="alt text" title="image Title" width="25%"/>
+    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-04.jpeg" alt="alt text" title="image Title" width="25%"/>
+  </div>
+</div>
+<div class=row>
+  <div class=column>
+    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-08.jpeg" alt="alt text" title="image Title" width="25%"/>
+    <img src="https://www.codefor.asia/wp-content/uploads/2021/06/E_SDG_Icons-11.jpeg" alt="alt text" title="image Title" width="25%"/>
+  </div>
+</div>
 
 ## Project Video
 <video width="640" height="480" controls>
