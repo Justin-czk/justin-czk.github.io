@@ -24,3 +24,6 @@ Next, we conducted exploratory analysis and applied the above methods. We compar
 ![Project results](/assets/PISPresults.png)
 
 We then gave a presentation to a panel of judges, concluding the project. 
+
+Thanks for reading!
+After this project, I have done many projects such as Temasek Stock Pitch Competition or Automation with Python! Click <a href = "https://justin-czk.github.io/blog/">here</a> to find out more!
