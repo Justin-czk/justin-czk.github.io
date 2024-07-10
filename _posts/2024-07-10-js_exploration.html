@@ -5,7 +5,7 @@ title: Snake Game
 
 # Snake Game
 
-<canvas id="gameCanvas" width="400" height="400"></canvas>
+<canvas id="gameCanvas" width="800" height="800"></canvas>
 <p>Score: <span id="score">0</span></p>
 
 <script>
@@ -26,8 +26,8 @@ document.addEventListener("DOMContentLoaded", function() {
         dy: 0
     };
     let apple = {
-        x: getRandomInt(1, 24) * grid,
-        y: getRandomInt(1, 24) * grid
+        x: getRandomInt(1, (canvas.width / grid) - 1) * grid,
+        y: getRandomInt(1, (canvas.height / grid) - 1) * grid
     };
 
     function getRandomInt(min, max) {
@@ -42,8 +42,8 @@ document.addEventListener("DOMContentLoaded", function() {
         snake.dx = grid;
         snake.dy = 0;
 
-        apple.x = getRandomInt(1, 24) * grid;  // Ensure apple does not appear at the edges
-        apple.y = getRandomInt(1, 24) * grid;  // Ensure apple does not appear at the edges
+        apple.x = getRandomInt(1, (canvas.width / grid) - 1) * grid;
+        apple.y = getRandomInt(1, (canvas.height / grid) - 1) * grid;
 
         score = 0;
         scoreElement.innerText = score;
@@ -81,8 +81,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
             if (cell.x === apple.x && cell.y === apple.y) {
                 snake.maxCells++;
-                apple.x = getRandomInt(1, 24) * grid;  // Ensure apple does not appear at the edges
-                apple.y = getRandomInt(1, 24) * grid;  // Ensure apple does not appear at the edges
+                apple.x = getRandomInt(1, (canvas.width / grid) - 1) * grid;
+                apple.y = getRandomInt(1, (canvas.height / grid) - 1) * grid;
                 score++;
                 scoreElement.innerText = score;
             }
