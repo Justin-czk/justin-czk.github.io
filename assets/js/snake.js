@@ -1,8 +1,10 @@
 const canvas = document.getElementById("gameCanvas");
 const ctx = canvas.getContext("2d");
+const scoreElement = document.getElementById("score");
 
 const grid = 20;
 let count = 0;
+let score = 0;
 let snake = {
   x: grid * 5,
   y: grid * 5,
@@ -28,8 +30,11 @@ function resetGame() {
   snake.dx = grid;
   snake.dy = 0;
 
-  apple.x = getRandomInt(0, 25) * grid;
-  apple.y = getRandomInt(0, 25) * grid;
+  apple.x = getRandomInt(1, 24) * grid;  // Ensure apple does not appear at the edges
+  apple.y = getRandomInt(1, 24) * grid;  // Ensure apple does not appear at the edges
+
+  score = 0;
+  scoreElement.innerText = score;
 }
 
 function gameLoop() {
@@ -45,15 +50,7 @@ function gameLoop() {
   snake.x += snake.dx;
   snake.y += snake.dy;
 
-  if (snake.x < 0) {
-    resetGame();
-  } else if (snake.x >= canvas.width) {
-    resetGame();
-  }
-
-  if (snake.y < 0) {
-    resetGame();
-  } else if (snake.y >= canvas.height) {
+  if (snake.x < 0 || snake.x >= canvas.width || snake.y < 0 || snake.y >= canvas.height) {
     resetGame();
   }
 
@@ -72,8 +69,10 @@ function gameLoop() {
 
     if (cell.x === apple.x && cell.y === apple.y) {
       snake.maxCells++;
-      apple.x = getRandomInt(0, 25) * grid;
-      apple.y = getRandomInt(0, 25) * grid;
+      apple.x = getRandomInt(1, 24) * grid;  // Ensure apple does not appear at the edges
+      apple.y = getRandomInt(1, 24) * grid;  // Ensure apple does not appear at the edges
+      score++;
+      scoreElement.innerText = score;
     }
 
     for (let i = index + 1; i < snake.cells.length; i++) {
