@@ -2,7 +2,7 @@ async function load() {
   const response = await fetch(
     "https://script.google.com/macros/s/AKfycbzge7cgF-I_tmvwWYZOp-GmLnzlTyaMqixBVKOnlIz-qNtpZsLRW44ioMjroI0OknvPug/exec", {
       redirect: "follow",
-      method: "POST",
+      method: "GET",
       body: JSON.stringify(DATA),
       headers: {
         "Content-Type": "text/plain;charset=utf-8",
