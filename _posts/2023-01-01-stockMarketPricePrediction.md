@@ -9,7 +9,7 @@ I was mainly in charge with the formulation of the method and Neural Networks pa
 
 
 ## The Project
-In this project, we used variants of regression as benchmark models, followed by exploring the use of [decision tree algorithms](https://scikit-learn.org/stable/modules/tree.html) followed by [SVM](https://scikit-learn.org/stable/modules/svm.html), given the high dimensionality in stock markets. We then make use of Neural Networks,[RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network) and [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) specifically, since stock markets are time series in nature.
+In this project, we used variants of regression as benchmark models, followed by exploring the use of [decision tree algorithms](https://scikit-learn.org/stable/modules/tree.html) followed by [SVM](https://scikit-learn.org/stable/modules/svm.html), given the high dimensionality in stock markets. We then make use of Neural Networks, [RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network) and [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) specifically, since stock markets are time series in nature.
 
 ## Methodology 
 Firstly, we analysed related studies to arrive with the above algorithms and understand the previous research better.
