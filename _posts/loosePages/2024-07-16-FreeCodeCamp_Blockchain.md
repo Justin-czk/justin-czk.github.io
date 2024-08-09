@@ -1,7 +1,7 @@
 ---
 title:  "Free Code Camp Blockchain Course"
 layout: post
-published: false
+permalink: /blockchainProj/
 ---
 
 # Blockchain Learning 🟦
