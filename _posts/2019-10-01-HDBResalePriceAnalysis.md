@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "HDB Resale Price Analysis"
+excerpt_separator: <!--more-->
 ---
 
+This is an individual project done to research and model the Singaporean HDB Resale Market using R, attaining A grade. 🏢
+<!--more-->
+
 ![HDB Resale](/assets/HDBresale_jiachen-lin-unsplash.jpg)
-
-This is an individual project done to research and model the Singaporean HDB Resale Market using R, attaining A grade.
-
 
 ## The Project
 In this project, I used methods such as regression, clustering and PCA, etc. to model and predict the HDB resale prices, given a set of parameters for the resale unit. 
