@@ -11,7 +11,7 @@ I have made a few modifications to the standard snake game, to make it more user
 
     1. Adding a score counter so users can keep track of their scores.
     2. Adding a CSS white boarder around the game canvas so users know the playing field.
-    3. Prevent default behaviour of arrow keys of scrolling the page so that it can be properly used for the game.
+    3. Prevent default behaviour of arrow keys of scrolling the page.
     4. Adding difficulty buttons so users can pick the level they want to play at.
 
 Try it out below! Simply use the arrow keys to move the snake and eat the apple!
