@@ -3,20 +3,29 @@ layout: page
 title: Snake Game
 ---
 
-This is a commonly done project, the snake game! It teaches me how to use javascript to create a game canvas in a webpage, using event listeners and other fun stuff to make this game. Try it out below!
+This is an ✨upgrade✨ to the commonly done project, the snake game! 🐍🍎
+It teaches me how to use javascript to create a game canvas in a webpage, using event listeners and other fun stuff to make this game. 🎮
 
+I have made a few modifications to the standard snake game, to make it more user friendly.
+    1. Adding a score counter so users can keep track of their scores.
+    2. Adding a CSS white boarder around the game canvas so users know the playing field.
+    3. Prevent default behaviour of arrow keys of scrolling the page so that it can be properly used for the game.
+    4. Adding difficulty buttons so users can pick the level they want to play at.
+
+
+Try it out below! Simply use the arrow keys to move the snake and eat the apple!
 
 ## Snake Game
-
-<!-- Add a CSS border to the canvas for a white outline -->
-<canvas id="gameCanvas" width="400" height="400" style="border: 2px solid white;"></canvas>
-<p>Score: <span id="score">0</span></p>
 
 <!-- Difficulty level options -->
 <p>Select Difficulty:</p>
 <label><input type="radio" name="difficulty" value="easy" checked> Easy</label>
 <label><input type="radio" name="difficulty" value="medium"> Medium</label>
 <label><input type="radio" name="difficulty" value="hard"> Hard</label>
+
+<!-- Add a CSS border to the canvas for a white outline -->
+<canvas id="gameCanvas" width="400" height="400" style="border: 2px solid white;"></canvas>
+<p>Score: <span id="score">0</span></p>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
