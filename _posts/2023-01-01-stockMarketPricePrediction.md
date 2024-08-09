@@ -3,12 +3,12 @@ layout: post
 title: "Stock Market Price Prediction"
 ---
 
-![Stock Market](/assets/StockMarket-bymaxim-hopman-unsplash.jpg)
-
-As the coursework to an Artificial Intelligence module, along with my team, I have chosen to try and predict the future prices in the Stock Market. Attained A grade using Python to predict future price of stock. Used packages such as Tensorflow, Sklearn and Matplotlib. Project was done over Google Colab.
+Attained A grade using Python to predict future price of stock. Used packages such as Tensorflow, Sklearn and Matplotlib. Project was done over Google Colab. This project was done as the coursework to an Artificial Intelligence module. 🤖
 
 I was mainly in charge with the formulation of the method and Neural Networks part of the project.
 
+
+![Stock Market](/assets/StockMarket-bymaxim-hopman-unsplash.jpg)
 
 ## The Project
 In this project, we used variants of regression as benchmark models, followed by exploring the use of <a href = "https://scikit-learn.org/stable/modules/tree.html" target="_blank">decision tree algorithms</a> followed by <a href = "https://scikit-learn.org/stable/modules/svm.html" target="_blank"> SVM</a>, given the high dimensionality in stock markets. We then make use of Neural Networks, <a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" target="_blank">RNN</a> and <a href = "https://en.wikipedia.org/wiki/Long_short-term_memory" target="_blank">LSTM</a> specifically, since stock markets are time series in nature.
