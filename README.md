@@ -6,7 +6,7 @@ layout: page
 
 ## My Personal Website!
 
-Credits to [Nikla Buschmann] (https://github.com/niklasbuschmann) for his [contrast](https://github.com/niklasbuschmann/contrast) project which contributed immensely to the development of this site and my learning of what goes on behind each webpage!
+Credits to [Nikla Buschmann](https://github.com/niklasbuschmann) for his [contrast](https://github.com/niklasbuschmann/contrast) project which contributed immensely to the development of this site and my learning of what goes on behind each webpage!
 
 ## Contents
 
