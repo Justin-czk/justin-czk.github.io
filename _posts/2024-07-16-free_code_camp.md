@@ -1,3 +1,9 @@
+---
+title:  "Markdown examples"
+layout: post
+published: false
+---
+
 # Blockchain Learning 🟦
 
 Date: July 16, 2024 → July 29, 2024
