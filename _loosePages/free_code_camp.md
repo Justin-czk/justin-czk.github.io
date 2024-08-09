@@ -1,3 +1,8 @@
+---
+title: "Blockchain Learning"
+layout: post
+---
+
 # Blockchain Learning 🟦
 
 Date: July 16, 2024 → July 29, 2024
