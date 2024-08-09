@@ -2,7 +2,6 @@
 title: "Real Estate Blockchain Project Page 🏡"
 layout: post
 published: false
-permalink: /blockchainProj/
 ---
 
 ## Purpose
@@ -32,7 +31,7 @@ gantt
 
 ## FreeCodeCamp Course 
 
-Notes for the course are written [here]()! It is a really comprehensive course for solidity, blockchain and smart contracts in Python. 
+Notes for the course are written [here](https://justinczk.me/blockchainProj/)! It is a really comprehensive course for solidity, blockchain and smart contracts in Python. 
 
 ## Literature Review
 
