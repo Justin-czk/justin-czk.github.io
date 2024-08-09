@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Temasek Stock Pitch Competition"
+excerpt_separator: <!--more-->
 ---
 
+This is a competition to research on a company and it's stock and produce a report to showcase our results. 📈
+I was mainly in charge of research and valuation, employing methods such as DCF, PE valuation, revenue forecasting etc.🚀✨
+<!--more-->
 ![Temasek Stock Pitch Competition](/assets/TSPC-headway-5QgIuuBxKwM-unsplash.jpg)
-
-This is a competition to research on a company and it's stock and produce a report to showcase our results. I was mainly in charge of research and valuation, employing methods such as DCF, PE valuation, revenue forecasting etc. 
 
 ## The Project
 In this project, we did our analysis on <a href="https://www.coinbase.com/" target="_blank">Coinbase</a>, a company that is trying to create a fairer, more accessible and more transparent financial system through Crypto. 
