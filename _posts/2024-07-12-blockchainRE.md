@@ -2,6 +2,7 @@
 title: "Real Estate Blockchain Project Page 🏡"
 layout: post
 published: false
+permalink: /blockchainProj/
 ---
 
 ## Purpose
