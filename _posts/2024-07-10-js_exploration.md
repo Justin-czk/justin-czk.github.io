@@ -3,7 +3,10 @@ layout: page
 title: Snake Game
 ---
 
+This is a commonly done project, the snake game! It teaches me how to use javascript to create a game canvas in a webpage, using event listeners and other fun stuff to make this game. Try it out below!
 
+
+## Snake Game
 
 <canvas id="gameCanvas" width="400" height="400"></canvas>
 <p>Score: <span id="score">0</span></p>
