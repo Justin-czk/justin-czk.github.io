@@ -8,7 +8,7 @@ This is a commonly done project, the snake game! It teaches me how to use javasc
 
 ## Snake Game
 
-<canvas id="gameCanvas" width="400" height="400"></canvas>
+<canvas id="gameCanvas" width="400" height="400" style="border: 1px solid white;"></canvas>
 <p>Score: <span id="score">0</span></p>
 
 <script>
@@ -60,7 +60,13 @@ document.addEventListener("DOMContentLoaded", function() {
         }
         count = 0;
 
+        // Clear the canvas and draw the border
         ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        // Draw a white border around the canvas
+        ctx.strokeStyle = "white";
+        ctx.lineWidth = 2;
+        ctx.strokeRect(0, 0, canvas.width, canvas.height);
 
         snake.x += snake.dx;
         snake.y += snake.dy;
@@ -99,6 +105,11 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     document.addEventListener("keydown", function(e) {
+        // Prevent default scrolling behavior for arrow keys
+        if ([37, 38, 39, 40].includes(e.which)) {
+            e.preventDefault();
+        }
+        
         if (e.which === 37 && snake.dx === 0) {
             snake.dx = -grid;
             snake.dy = 0;
