@@ -1,7 +1,6 @@
 ---
 title: "Stock Market Price Prediction"
 layout: post
-categories: media
 ---
 
 Attained A grade using Python to predict future price of stock. Used packages such as Tensorflow, Sklearn and Matplotlib. Project was done over Google Colab. This project was done as the coursework to an Artificial Intelligence module. 🤖
