@@ -32,3 +32,11 @@ gantt
 ## FreeCodeCamp Course 
 
 Notes for the course are written [here]()! It is a really comprehensive course for solidity, blockchain and smart contracts in Python. 
+
+## Literature Review
+
+Consulted good sources of information such as ChatGPT, existing business models and books for ideas.
+
+A more detailed writeup can be found [here]()
+
+## Writing Contract

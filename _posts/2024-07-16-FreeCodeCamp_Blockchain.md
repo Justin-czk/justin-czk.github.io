@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "Free Code Camp Blockchain Course"
 layout: post
 published: false
 ---
@@ -8,9 +8,9 @@ published: false
 
 Date: July 16, 2024 → July 29, 2024
 
-Source: https://www.youtube.com/watch?v=M576WGiDBdQ
+Source: [Free Code Camp Youtube Video](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
-Github: https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+Github: [Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 
 # General
 
