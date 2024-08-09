@@ -12,6 +12,12 @@ This is a commonly done project, the snake game! It teaches me how to use javasc
 <canvas id="gameCanvas" width="400" height="400" style="border: 2px solid white;"></canvas>
 <p>Score: <span id="score">0</span></p>
 
+<!-- Difficulty level options -->
+<p>Select Difficulty:</p>
+<label><input type="radio" name="difficulty" value="easy" checked> Easy</label>
+<label><input type="radio" name="difficulty" value="medium"> Medium</label>
+<label><input type="radio" name="difficulty" value="hard"> Hard</label>
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     const canvas = document.getElementById("gameCanvas");
@@ -33,6 +39,16 @@ document.addEventListener("DOMContentLoaded", function() {
         x: getRandomInt(1, (canvas.width / grid) - 1) * grid,
         y: getRandomInt(1, (canvas.height / grid) - 1) * grid
     };
+
+    // Speeds for different difficulty levels (frames to wait before each update)
+    const speeds = {
+        easy: 10,
+        medium: 7,
+        hard: 4
+    };
+
+    // Initial speed
+    let currentSpeed = speeds.easy;
 
     function getRandomInt(min, max) {
         return Math.floor(Math.random() * (max - min)) + min;
@@ -56,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function() {
     function gameLoop() {
         requestAnimationFrame(gameLoop);
 
-        if (++count < 4) {
+        if (++count < currentSpeed) {
             return;
         }
         count = 0;
@@ -120,6 +136,14 @@ document.addEventListener("DOMContentLoaded", function() {
             snake.dy = grid;
             snake.dx = 0;
         }
+    });
+
+    // Change speed based on difficulty level
+    document.querySelectorAll('input[name="difficulty"]').forEach(function(input) {
+        input.addEventListener('change', function() {
+            currentSpeed = speeds[this.value];
+            resetGame();
+        });
     });
 
     resetGame();
